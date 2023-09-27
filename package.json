@@ -14,7 +14,8 @@
     "Intel AMT"
   ],
   "scripts": {
-    "start":"nodemon meshcentral.js"
+    "start":"nodemon meshcentral.js",
+    "build":"npm install"
   },
   "homepage": "https://meshcentral.com",
   "description": "Web based remote computer management server",
